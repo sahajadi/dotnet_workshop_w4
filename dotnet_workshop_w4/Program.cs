@@ -88,32 +88,50 @@
 //    }
 //}
 
-// task4
-using System;
+//// task4
+//using System;
 
-namespace dotnet_workshop_w4
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            // Object using default constructor
-            Task4 player1 = new Task4();
-            // Assign values manually
-            player1.playerName = "Default Player";
-            player1.level = 1;
-            player1.health = 100;
-            Console.WriteLine("Player 1 (Default Constructor):");
-            player1.DisplayInfo();
+//namespace dotnet_workshop_w4
+//{
+//    internal class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            // Object using default constructor
+//            Task4 player1 = new Task4();
+//            // Assign values manually
+//            player1.playerName = "Default Player";
+//            player1.level = 1;
+//            player1.health = 100;
+//            Console.WriteLine("Player 1 (Default Constructor):");
+//            player1.DisplayInfo();
 
-            // Object using parameterized constructor
-            Task4 player2 = new Task4("Sahajadi", 5, 150);
-            Console.WriteLine("Player 2 (Parameterized Constructor):");
-            player2.DisplayInfo();
+//            // Object using parameterized constructor
+//            Task4 player2 = new Task4("Sahajadi", 5, 150);
+//            Console.WriteLine("Player 2 (Parameterized Constructor):");
+//            player2.DisplayInfo();
 
-            Console.ReadLine();
-        }
-    }
-}
+//            Console.ReadLine();
+//        }
+//    }
+//}
 
+
+//task6
+//using System;
+
+//namespace dotnet_workshop_w4
+//{
+//    internal class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            // Task5: Enum & Book demo
+//            Task5.CheckDay();
+//            Task5.BookDemo();
+
+//            Console.ReadLine();
+//        }
+//    }
+//}
 
