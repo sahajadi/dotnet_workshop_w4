@@ -40,7 +40,7 @@ namespace dotnet_workshop_w4
         // Method to demonstrate record usage
         public static void BookDemo()
         {
-            // Create a record object
+          
             Book book1 = new Book("C# in Depth", "Jon Skeet", 45.99);
 
             // Create another object using 'with' to modify title and price
