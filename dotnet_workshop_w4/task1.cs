@@ -2,7 +2,7 @@
 
 //namespace dotnet_workshop_w4
 //{
-//    internal class Student
+//    internal class task1
 //    {
 //        // Instance fields
 //        public string Name;
@@ -13,7 +13,7 @@
 //        public static string SchoolName = "Itahari International College";
 
 //        // Constructor to set instance fields quickly
-//        public Student(string name, int age, string course)
+//        public task1(string name, int age, string course)
 //        {
 //            Name = name;
 //            Age = age;

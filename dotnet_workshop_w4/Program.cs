@@ -7,8 +7,8 @@
 //        static void Main(string[] args)
 //        {
 //            // Create students using the constructor
-//            Student student1 = new Student("Sahajadi", 21, "Information Technology");
-//            Student student2 = new Student("Aarohi", 20, "Information Technology");
+//            task1 student1 = new task1("Sahajadi", 21, "Information Technology");
+//            task1 student2 = new task1("Aarohi", 20, "Information Technology");
 
 //            // Display their info
 //            student1.DisplayInfo();
