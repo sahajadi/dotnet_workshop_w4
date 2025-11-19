@@ -54,4 +54,37 @@
 //        }
 //    }
 //}
- 
+
+//// task3
+//using System;
+
+//namespace dotnet_workshop_w4
+//{
+//    internal class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            // Create object of ParameterDemo
+//            Task3 demo = new Task3();
+
+//            // --- Using ref ---
+//            int myNumber = 15;
+//            Console.WriteLine("Before Increase: " + myNumber);
+//            demo.Increase(ref myNumber);  // Pass using ref
+//            Console.WriteLine("After Increase: " + myNumber);
+//            Console.WriteLine();
+
+//            // --- Using out ---
+//            demo.GetFullName(out string fullname); // out parameter
+//            Console.WriteLine("Full Name: " + fullname);
+//            Console.WriteLine();
+
+//            // --- Using params ---
+//            int total = demo.SumAll(5, 10, 15, 20); // passing multiple numbers
+//            Console.WriteLine("Sum of all numbers: " + total);
+
+//            Console.ReadLine();
+//        }
+//    }
+//}
+

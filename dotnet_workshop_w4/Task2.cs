@@ -3,7 +3,7 @@ using System;
 
 namespace dotnet_workshop_w4
 {
-    internal class Calculator
+    internal class Task2
     {
         // Void method to print welcome message
         public void PrintWelcome()
