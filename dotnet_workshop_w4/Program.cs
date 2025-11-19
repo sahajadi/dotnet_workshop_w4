@@ -117,7 +117,7 @@
 //}
 
 
-//task6
+//task5
 //using System;
 
 //namespace dotnet_workshop_w4
@@ -129,6 +129,22 @@
 //            // Task5: Enum & Book demo
 //            Task5.CheckDay();
 //            Task5.BookDemo();
+
+//            Console.ReadLine();
+//        }
+//    }
+//}
+
+////task6
+//using System;
+
+//namespace dotnet_workshop_w4
+//{
+//    internal class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            Task6.CalculatePercentage();
 
 //            Console.ReadLine();
 //        }
